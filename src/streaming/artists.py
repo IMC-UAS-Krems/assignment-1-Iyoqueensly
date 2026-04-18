@@ -18,4 +18,3 @@ class Artist:
 
     def track_count(self):
         return len(self.tracks)
-
